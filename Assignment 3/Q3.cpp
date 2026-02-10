@@ -1,3 +1,5 @@
+//QUESTION 3 -> 3.	Write a program to add data objects of two different classes using friend functions
+
 #include <iostream>
 using namespace std;
 
